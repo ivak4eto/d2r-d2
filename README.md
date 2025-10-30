@@ -92,7 +92,7 @@ By launching Diablo II with the -direct -txt flags, the game loads that data fil
 No game binaries are altered — the mod is safe, reversible, and EULA-friendly for offline play.
 
 
-##⚠️ Known Issues
+## ⚠️ Known Issues
 
 Some newer D2R stats are not recognized by LoD.
 
