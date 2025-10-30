@@ -45,37 +45,37 @@ Executable patching	❌ None (data-only mod)
 
 Mosaic	⚠️	Some effects missing
 
-Metamorphosis	⚠️	Slight visual stat issues
+Metamorphosis	⚠️	Slight stats issues
 
-Hustle	✅	Works as intended
+Hustle	✅	Fully functional
 
 Plague	✅	Fully functional
 
-Flickering Flame	✅	Works fully
+Flickering Flame	✅	Fully functional
 
-Wisdom	✅	Fully functional
+Wisdom	✅	Works fine
 
 Obsession	✅	Fully functional
 
-Pattern	✅	Functional on claws
+Pattern	✅	Fully functional
 
-Temper	✅	Works fine
+Temper	✅	Fully functional
 
-Cure	✅	Works fine
+Cure	✅	Fully functional
 
 Unbending Will	✅	Fully functional
 
-Bulwark	✅	Works fine
+Bulwark	✅	Fully functional
 
-Ground	✅	Works fine
+Ground	✅	Fully functional
 
-Hearth	✅	Works fine
+Hearth	✅	Fully functional
 
-Temper	✅	Works fine
+Temper	✅	Fully functional
 
 Devotion	✅	Fully functional
 
-Mist	✅	Fully functional
+Mist	✅	Works fine
 
 Obedience / Pride / Insight / etc.	✅	All original LoD runewords untouched
 
