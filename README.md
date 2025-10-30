@@ -18,7 +18,10 @@ C:\Program Files (x86)\Diablo II\data
 
 Edit your Diablo II shortcut to include the following at the end of the Target line:
 
+
+```shell
 -direct -txt
+```
 
 
 Example full line:
