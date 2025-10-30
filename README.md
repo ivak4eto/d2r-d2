@@ -31,7 +31,7 @@ Launch the game normally — the new runewords will now be available.
 
 ## ⚡ Compatibility
 
-D2R 2.6 runewords	✅ Most work
+D2R 2.6 runewords	✅ Most fully working
 
 Multiplayer / Battle.net	❌ Not supported
 
@@ -40,7 +40,7 @@ Single-player / TCP/IP	✅ Works if all players use same mod
 Executable patching	❌ None (data-only mod)
 
 
-💎 Runeword Compatibility Summary
+## 💎 Runeword Compatibility Summary
 
 
 Mosaic	⚠️	Some effects missing
