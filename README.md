@@ -13,21 +13,22 @@ No executable or binary patches — completely safe and easy to remove.
 Copy the "data" folder to your Diablo II installation directory.
 
 Example:
-C:\Program Files (x86)\Diablo II\data
 
+```shell
+C:\Program Files (x86)\Diablo II\data
+```
 
 Edit your Diablo II shortcut to include the following at the end of the Target line:
-
 
 ```shell
 -direct -txt
 ```
 
-
 Example full line:
 
+```shell
 "C:\Program Files (x86)\Diablo II\Game.exe" -direct -txt
-
+```
 
 Launch the game normally — the new runewords will now be available.
 
