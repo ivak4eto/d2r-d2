@@ -73,7 +73,7 @@ Hearth	✅	Fully functional
 
 Temper	✅	Fully functional
 
-Devotion	✅	Fully functional
+Hustle	✅	Fully functional
 
 Mist	✅	Works fine
 
