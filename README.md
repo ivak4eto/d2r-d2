@@ -110,3 +110,31 @@ Game: Diablo II: Lord of Destruction (1.14d)
 Reference: Diablo II: Resurrected v2.6 (for runeword definitions)
 
 ## ❤️ Enjoy!
+
+
+
+
+
+
+
+| Runeword                               | Works | Notes                                       |
+| -------------------------------------- | :---: | ------------------------------------------- |
+| **Mosaic**                             |   ✅   | Fully functional                            |
+| **Metamorphosis**                      |   ✅   | Slight visual stat issues                   |
+| **Hustle**                             |   ✅   | Works as intended                           |
+| **Plague**                             |   ⚠️  | Works, but aura effect may differ slightly  |
+| **Flickering Flame**                   |   ✅   | Works fully                                 |
+| **Wisdom**                             |   ✅   | Fully functional                            |
+| **Obsession**                          |   ⚠️  | Most stats work, some visual glitches       |
+| **Pattern**                            |   ✅   | Functional on claws                         |
+| **Temper**                             |   ✅   | Works fine                                  |
+| **Cure**                               |   ⚠️  | Works, but aura visuals may be inconsistent |
+| **Unbending Will**                     |   ✅   | Fully functional                            |
+| **Bulwark**                            |   ✅   | Works fine                                  |
+| **Ground**                             |   ✅   | Works fine                                  |
+| **Hearth**                             |   ✅   | Works fine                                  |
+| **Temper**                             |   ✅   | Works fine                                  |
+| **Devotion**                           |   ⚠️  | Minor inconsistencies                       |
+| **Mist**                               |   ⚠️  | Some effects missing                        |
+| **Obedience / Pride / Insight / etc.** |   ✅   | All original LoD runewords untouched        |
+
