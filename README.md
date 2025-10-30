@@ -39,6 +39,7 @@ Single-player / TCP/IP	✅ Works if all players use same mod
 Executable patching	❌ None (data-only mod)
 💎 Runeword Compatibility Summary
 Runeword	Works	Notes
+
 Mosaic	✅	Fully functional
 
 Metamorphosis	✅	Slight visual stat issues
@@ -62,8 +63,11 @@ Cure	⚠️	Works, but aura visuals may be inconsistent
 Unbending Will	✅	Fully functional
 
 Bulwark	✅	Works fine
+
 Ground	✅	Works fine
+
 Hearth	✅	Works fine
+
 Temper	✅	Works fine
 
 Devotion	⚠️	Minor inconsistencies
