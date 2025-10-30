@@ -40,7 +40,7 @@ Example full line:
 
 | Feature                  | Status                                |
 | ------------------------ | ------------------------------------- |
-| **Diablo II version**    | **1.14d (LoD)**                       |
+| Diablo II version        | **1.14d (LoD)**                       |
 | D2R 2.6 runewords        | ✅ *Most are fully working*           |
 | Multiplayer / Battle.net | ❌ *Not supported*                     |
 | Single-player / TCP/IP   | ✅ *Works if all players use same mod* |
