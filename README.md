@@ -1,5 +1,6 @@
 ## 🧩 D2R-D2 — Runewords from Diablo II: Resurrected in Classic Diablo II (1.14d)
-⚔️ Overview
+
+## ⚔️ Overview
 
 D2R-D2 is a lightweight mod that ports most Diablo II: Resurrected (v2.6) runewords into Diablo II: Lord of Destruction (1.14d).
 It allows single-player users to enjoy the newer runewords without needing D2R or Battle.net.
