@@ -38,53 +38,37 @@ Example full line:
 
 ## ⚡ Compatibility
 
-D2R 2.6 runewords	✅ Most fully working
-
-Multiplayer / Battle.net	❌ Not supported
-
-Single-player / TCP/IP	✅ Works if all players use same mod
-
-Executable patching	❌ None (data-only mod)
+| Feature                  | Status                                |
+| ------------------------ | ------------------------------------- |
+| Diablo II version        | **1.14d (LoD)**                       |
+| D2R 2.6 runewords        | ✅ *Most are fully working*           |
+| Multiplayer / Battle.net | ❌ *Not supported*                     |
+| Single-player / TCP/IP   | ✅ *Works if all players use same mod* |
+| Executable patching      | ❌ *None (data-only mod)*              |
 
 
 ## 💎 Runewords Summary
 
 
-Mosaic	⚠️	Some effects missing
-
-Metamorphosis	⚠️	Slight stats issues
-
-Hustle	✅	Fully functional
-
-Plague	✅	Fully functional
-
-Flickering Flame	✅	Fully functional
-
-Wisdom	✅	Works fine
-
-Obsession	✅	Fully functional
-
-Pattern	✅	Fully functional
-
-Temper	✅	Fully functional
-
-Cure	✅	Fully functional
-
-Unbending Will	✅	Fully functional
-
-Bulwark	✅	Fully functional
-
-Ground	✅	Fully functional
-
-Hearth	✅	Fully functional
-
-Temper	✅	Fully functional
-
-Hustle	✅	Fully functional
-
-Mist	✅	Works fine
-
-Obedience / Pride / Insight / etc.	✅	All original LoD runewords untouched
+| Runeword                               | Works | Notes                                       |
+| -------------------------------------- | :---: | ------------------------------------------- |
+| **Mosaic**                             |   ⚠️   | Some effects missing                        |
+| **Metamorphosis**                      |   ⚠️   | Slight stats issues                         |
+| **Hustle**                             |   ✅   | Fully functional                            |
+| **Plague**                             |   ✅   | Fully functional                            |
+| **Flickering Flame**                   |   ✅   | Fully functional                            |
+| **Wisdom**                             |   ✅   | Works fine                                  |
+| **Obsession**                          |   ✅   | Fully functional                            |
+| **Pattern**                            |   ✅   | Fully functional                            |
+| **Temper**                             |   ✅   | Works fine                                  |
+| **Cure**                               |   ✅   | Fully functional                            |
+| **Unbending Will**                     |   ✅   | Fully functional                            |
+| **Bulwark**                            |   ✅   | Fully functional                            |
+| **Ground**                             |   ✅   | Fully functional                            |
+| **Hearth**                             |   ✅   | Fully functional                            |
+| **Temper**                             |   ✅   | Fully functional                            |
+| **Mist**                               |   ✅   | Works fine                                  |
+| **Obedience / Pride / Insight / etc.** |   ✅   | All original LoD runewords untouched        |
 
 
 ## ⚙️ How It Works
@@ -110,31 +94,3 @@ Game: Diablo II: Lord of Destruction (1.14d)
 Reference: Diablo II: Resurrected v2.6 (for runeword definitions)
 
 ## ❤️ Enjoy!
-
-
-
-
-
-
-
-| Runeword                               | Works | Notes                                       |
-| -------------------------------------- | :---: | ------------------------------------------- |
-| **Mosaic**                             |   ✅   | Fully functional                            |
-| **Metamorphosis**                      |   ✅   | Slight visual stat issues                   |
-| **Hustle**                             |   ✅   | Works as intended                           |
-| **Plague**                             |   ⚠️  | Works, but aura effect may differ slightly  |
-| **Flickering Flame**                   |   ✅   | Works fully                                 |
-| **Wisdom**                             |   ✅   | Fully functional                            |
-| **Obsession**                          |   ⚠️  | Most stats work, some visual glitches       |
-| **Pattern**                            |   ✅   | Functional on claws                         |
-| **Temper**                             |   ✅   | Works fine                                  |
-| **Cure**                               |   ⚠️  | Works, but aura visuals may be inconsistent |
-| **Unbending Will**                     |   ✅   | Fully functional                            |
-| **Bulwark**                            |   ✅   | Works fine                                  |
-| **Ground**                             |   ✅   | Works fine                                  |
-| **Hearth**                             |   ✅   | Works fine                                  |
-| **Temper**                             |   ✅   | Works fine                                  |
-| **Devotion**                           |   ⚠️  | Minor inconsistencies                       |
-| **Mist**                               |   ⚠️  | Some effects missing                        |
-| **Obedience / Pride / Insight / etc.** |   ✅   | All original LoD runewords untouched        |
-
