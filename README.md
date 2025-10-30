@@ -40,7 +40,7 @@ Single-player / TCP/IP	✅ Works if all players use same mod
 Executable patching	❌ None (data-only mod)
 
 
-## 💎 Runeword Compatibility Summary
+## 💎 Runewords Summary
 
 
 Mosaic	⚠️	Some effects missing
