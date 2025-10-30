@@ -82,8 +82,7 @@ Obedience / Pride / Insight / etc.	✅	All original LoD runewords untouched
 
 ## ⚙️ How It Works
 
-The mod includes updated .txt files (Runes.txt) extracted from D2R and adapted for compatibility with LoD’s 1.14d engine.
-By launching Diablo II with the -direct -txt flags, the game loads that data file directly instead of those packed inside the MPQ archives.
+The mod includes updated files (Runes.txt & patchstring.tbl). By launching Diablo II with the -direct -txt flags, the game loads that data file directly instead of those packed inside the MPQ archives.
 
 No game binaries are altered — the mod is safe, reversible, and EULA-friendly for offline play.
 
