@@ -1,4 +1,4 @@
-## 🧩 D2R-D2 — Runewords from Diablo II: Resurrected in Classic Diablo II (1.14d)
+## 🧩 D2R-D2 — Runewords from Diablo II: Resurrected and Ladder-only runewords in Classic Diablo II (1.14d) single player
 
 ## ⚔️ Overview
 
@@ -10,11 +10,9 @@ No executable or binary patches — completely safe and easy to remove.
 
 ## 🛠️ Installation
 
-Download the latest version or clone the repo.
+Copy the "data" folder to your Diablo II installation directory.
 
-Copy the data folder to your Diablo II installation directory.
 Example:
-
 C:\Program Files (x86)\Diablo II\data
 
 
@@ -30,14 +28,23 @@ Example full line:
 
 Launch the game normally — the new runewords will now be available.
 
+
 ## ⚡ Compatibility
+
 Feature	Status
+
 Diablo II version	1.14d (LoD)
+
 D2R 2.6 runewords	✅ Most work
+
 Multiplayer / Battle.net	❌ Not supported
+
 Single-player / TCP/IP	✅ Works if all players use same mod
+
 Executable patching	❌ None (data-only mod)
+
 💎 Runeword Compatibility Summary
+
 Runeword	Works	Notes
 
 Mosaic	✅	Fully functional
@@ -76,20 +83,21 @@ Mist	⚠️	Some effects missing
 
 Obedience / Pride / Insight / etc.	✅	All original LoD runewords untouched
 
+
 ## ⚙️ How It Works
 
-The mod includes updated .txt files (Runewords.txt, Runes.txt, ItemStatCost.txt, and others) extracted from D2R and adapted for compatibility with LoD’s 1.14d engine.
-By launching Diablo II with the -direct -txt flags, the game loads these data files directly instead of those packed inside the MPQ archives.
+The mod includes updated .txt files (Runes.txt) extracted from D2R and adapted for compatibility with LoD’s 1.14d engine.
+By launching Diablo II with the -direct -txt flags, the game loads that data file directly instead of those packed inside the MPQ archives.
 
 No game binaries are altered — the mod is safe, reversible, and EULA-friendly for offline play.
 
+
 ##⚠️ Known Issues
 
-Some newer D2R stats are not recognized by LoD (they show blank or have no effect).
+Some newer D2R stats are not recognized by LoD.
 
-Certain visual or tooltip bugs may appear, but items function correctly.
+This mod is not intended for online environments (Battle.net) — single-player only.
 
-Using this mod in online environments (Battle.net) will desync or cause version mismatch errors — single-player only.
 
 ## 💬 Credits
 
@@ -97,9 +105,6 @@ Author: ivak4eto
 
 Game: Diablo II: Lord of Destruction (1.14d)
 
-Reference: Diablo II: Resurrected v2.6 data (for runeword definitions)
+Reference: Diablo II: Resurrected v2.6 (for runeword definitions)
 
-## ❤️ Support
-
-If you enjoy this mod, star the repository and share feedback or compatibility reports.
-Pull requests for improved compatibility or new features are welcome.
+## ❤️ Enjoy!
