@@ -43,7 +43,7 @@ Executable patching	❌ None (data-only mod)
 💎 Runeword Compatibility Summary
 
 
-Mosaic	⚠️	Fully functional
+Mosaic	⚠️	Some effects missing
 
 Metamorphosis	⚠️	Slight visual stat issues
 
