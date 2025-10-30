@@ -31,10 +31,6 @@ Launch the game normally — the new runewords will now be available.
 
 ## ⚡ Compatibility
 
-Feature	Status
-
-Diablo II version	1.14d (LoD)
-
 D2R 2.6 runewords	✅ Most work
 
 Multiplayer / Battle.net	❌ Not supported
@@ -43,29 +39,29 @@ Single-player / TCP/IP	✅ Works if all players use same mod
 
 Executable patching	❌ None (data-only mod)
 
+
 💎 Runeword Compatibility Summary
 
-Runeword	Works	Notes
 
-Mosaic	✅	Fully functional
+Mosaic	⚠️	Fully functional
 
-Metamorphosis	✅	Slight visual stat issues
+Metamorphosis	⚠️	Slight visual stat issues
 
 Hustle	✅	Works as intended
 
-Plague	⚠️	Works, but aura effect may differ slightly
+Plague	✅	Fully functional
 
 Flickering Flame	✅	Works fully
 
 Wisdom	✅	Fully functional
 
-Obsession	⚠️	Most stats work, some visual glitches
+Obsession	✅	Fully functional
 
 Pattern	✅	Functional on claws
 
 Temper	✅	Works fine
 
-Cure	⚠️	Works, but aura visuals may be inconsistent
+Cure	✅	Works fine
 
 Unbending Will	✅	Fully functional
 
@@ -77,9 +73,9 @@ Hearth	✅	Works fine
 
 Temper	✅	Works fine
 
-Devotion	⚠️	Minor inconsistencies
+Devotion	✅	Fully functional
 
-Mist	⚠️	Some effects missing
+Mist	✅	Fully functional
 
 Obedience / Pride / Insight / etc.	✅	All original LoD runewords untouched
 
