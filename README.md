@@ -1,4 +1,4 @@
-## 🧩 D2R-D2 — Runewords from Diablo II: Resurrected and Ladder-only runewords in Classic Diablo II (1.14d) single player
+## 🧩 D2R-D2 — Runewords from Diablo II: Resurrected in Classic Diablo II (1.14d)
 
 ## ⚔️ Overview
 
