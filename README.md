@@ -103,7 +103,7 @@ This mod is not intended for online environments (Battle.net) — single-player 
 
 ## 💬 Credits
 
-Author: ivak4eto
+Author: [ivak4eto](https://github.com/ivak4eto/)
 
 Game: Diablo II: Lord of Destruction (1.14d)
 
